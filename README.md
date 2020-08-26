@@ -7,7 +7,7 @@
 
 ## Installing 
 1. Clone the repo
-> git clone https://github.com/James-Havinga/QuizApp.git
+> git clone https://github.com/James-Havinga/BankManager.git
 
 2. Open the project
 > Open and run the project using IntelliJ
